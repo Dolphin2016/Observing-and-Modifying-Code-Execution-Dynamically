@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using Packt.Shared;
+using System.Reflection;
 
 WriteLine("Assembly metadata:");
 Assembly? assembly = Assembly.GetEntryAssembly();
@@ -29,3 +30,32 @@ AssemblyCompanyAttribute? company = assembly
     .GetCustomAttribute<AssemblyCompanyAttribute>();
 
 WriteLine($" Company: {company?.Company}");
+
+
+WriteLine();
+WriteLine($"* Types:");
+Type[] types = assembly.GetTypes();
+
+foreach (Type type in types)
+{
+    WriteLine();
+    WriteLine($"Type: {type.FullName}");
+    MemberInfo[] members = type.GetMembers();
+
+    foreach (MemberInfo member in members)
+    {
+        WriteLine("{0}: {1} ({2})",
+            member.MemberType, member.Name,
+            member.DeclaringType?.Name);
+
+        IOrderedEnumerable<CoderAttribute> coders =
+            member.GetCustomAttributes<CoderAttribute>()
+            .OrderByDescending(c => c.LastModified);
+
+        foreach (CoderAttribute coder in coders)
+        {
+            WriteLine("-> Modified by {0} on {1}",
+                coder.Coder, coder.LastModified.ToShortTimeString());
+        }
+    }
+}
