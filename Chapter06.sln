@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadAndExecute.Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithExpressionTrees", "WorkingWithExpressionTrees\WorkingWithExpressionTrees.csproj", "{F6E2903C-4923-4DDC-ABC0-B12E037180AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCodeApp", "GeneratingCodeApp\GeneratingCodeApp.csproj", "{F92D7C60-765A-4753-AA6E-BA89E398DA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCodeLib", "GeneratingCodeLib\GeneratingCodeLib.csproj", "{FD575A40-FF42-4319-B534-C5D994EBDD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F6E2903C-4923-4DDC-ABC0-B12E037180AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E2903C-4923-4DDC-ABC0-B12E037180AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E2903C-4923-4DDC-ABC0-B12E037180AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92D7C60-765A-4753-AA6E-BA89E398DA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92D7C60-765A-4753-AA6E-BA89E398DA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92D7C60-765A-4753-AA6E-BA89E398DA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92D7C60-765A-4753-AA6E-BA89E398DA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD575A40-FF42-4319-B534-C5D994EBDD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD575A40-FF42-4319-B534-C5D994EBDD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD575A40-FF42-4319-B534-C5D994EBDD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD575A40-FF42-4319-B534-C5D994EBDD8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
