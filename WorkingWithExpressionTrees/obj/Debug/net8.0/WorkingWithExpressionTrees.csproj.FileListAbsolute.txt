@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\bin\Debug\net8.0\WorkingWithExpressionTrees.exe
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\bin\Debug\net8.0\WorkingWithExpressionTrees.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\bin\Debug\net8.0\WorkingWithExpressionTrees.runtimeconfig.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\bin\Debug\net8.0\WorkingWithExpressionTrees.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\bin\Debug\net8.0\WorkingWithExpressionTrees.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\refint\WorkingWithExpressionTrees.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\WorkingWithExpressionTrees.genruntimeconfig.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\WorkingWithExpressionTrees\obj\Debug\net8.0\ref\WorkingWithExpressionTrees.dll
