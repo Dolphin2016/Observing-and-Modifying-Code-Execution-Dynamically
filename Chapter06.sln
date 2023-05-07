@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithReflection", "WorkingWithReflection\WorkingWithReflection.csproj", "{37F3E493-3508-496E-8301-BB9E10348810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadAndExecute.Library", "DynamicLoadAndExecute.Library\DynamicLoadAndExecute.Library.csproj", "{F5BA713A-A737-4A12-AD58-4DAF2005ED9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadAndExecute.Console", "DynamicLoadAndExecute.Console\DynamicLoadAndExecute.Console.csproj", "{67705EB3-552C-4B1F-8F1B-64F7FD62244A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{37F3E493-3508-496E-8301-BB9E10348810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37F3E493-3508-496E-8301-BB9E10348810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37F3E493-3508-496E-8301-BB9E10348810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BA713A-A737-4A12-AD58-4DAF2005ED9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BA713A-A737-4A12-AD58-4DAF2005ED9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BA713A-A737-4A12-AD58-4DAF2005ED9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BA713A-A737-4A12-AD58-4DAF2005ED9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67705EB3-552C-4B1F-8F1B-64F7FD62244A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67705EB3-552C-4B1F-8F1B-64F7FD62244A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67705EB3-552C-4B1F-8F1B-64F7FD62244A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67705EB3-552C-4B1F-8F1B-64F7FD62244A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

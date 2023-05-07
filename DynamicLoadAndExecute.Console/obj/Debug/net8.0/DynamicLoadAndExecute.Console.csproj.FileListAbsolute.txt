@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\bin\Debug\net8.0\DynamicLoadAndExecute.Console.exe
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\bin\Debug\net8.0\DynamicLoadAndExecute.Console.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\bin\Debug\net8.0\DynamicLoadAndExecute.Console.runtimeconfig.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\bin\Debug\net8.0\DynamicLoadAndExecute.Console.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\bin\Debug\net8.0\DynamicLoadAndExecute.Console.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\refint\DynamicLoadAndExecute.Console.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\DynamicLoadAndExecute.Console.genruntimeconfig.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Console\obj\Debug\net8.0\ref\DynamicLoadAndExecute.Console.dll

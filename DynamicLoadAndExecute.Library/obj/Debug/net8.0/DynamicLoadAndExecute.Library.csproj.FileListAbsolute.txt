@@ -1,0 +1,12 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\bin\Debug\net8.0\DynamicLoadAndExecute.Library.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\bin\Debug\net8.0\DynamicLoadAndExecute.Library.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\bin\Debug\net8.0\DynamicLoadAndExecute.Library.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\refint\DynamicLoadAndExecute.Library.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\DynamicLoadAndExecute.Library.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter06\DynamicLoadAndExecute.Library\obj\Debug\net8.0\ref\DynamicLoadAndExecute.Library.dll
